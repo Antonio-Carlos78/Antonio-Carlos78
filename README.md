@@ -52,4 +52,3 @@ Automação de triagem de leads via WhatsApp que otimiza o fluxo de corretores d
 ## 💬 Contato
 *LinkedIn | GitHub | Email*
 
-> "Desenvolvendo sistemas robustos, uma linha de código limpo por vez."
